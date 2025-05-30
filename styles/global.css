@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-*body {
-    font-size: 1,6rem;
+
+body {
+    font-size: 1.6rem;
+    padding: 8.8rem 8rem;
+   
 }
